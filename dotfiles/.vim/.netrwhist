@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/mdergosits/Dropbox/SP14/2100/lab3'
-let g:netrw_dirhist_2='/Users/mdergosits/Dropbox/SP14/2100/lab4'
-let g:netrw_dirhist_3='/Users/mdergosits/workspace/HyperDex'
-let g:netrw_dirhist_4='/Users/mdergosits/Dropbox/FA14/4760'
-let g:netrw_dirhist_5='/Volumes/USB/DDS_TEST'
-let g:netrw_dirhist_6='/Users/mdergosits/workspace/dotfiles/dotfiles/.vim'
