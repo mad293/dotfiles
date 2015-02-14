@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/mdergosits/workspace/gocode/src/gossip_logs/VectorTimeStamps/vts.go'
+let g:netrw_dirhist_2='/Users/mdergosits/Downloads/broadcom-wl-4.150.10.5'
+let g:netrw_dirhist_3='/Users/mdergosits/workspace/gocode'
+let g:netrw_dirhist_4='/Users/mdergosits/workspace/gocode/src/gms/network'
+let g:netrw_dirhist_5='/Users/mdergosits/workspace/gocode/src/gms/gms'
+let g:netrw_dirhist_6='/Users/mdergosits/workspace/gocode/src/gms/table'
+let g:netrw_dirhist_7='/Users/mdergosits/workspace/gocode/src/gms/gms'
+let g:netrw_dirhist_8='/Users/mdergosits/.euca'
