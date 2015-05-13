@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/mdergosits'
+let g:netrw_dirhist_2='/Users/mdergosits/workspace/SP15/CS4786/comp2/data'
+let g:netrw_dirhist_3='/Users/mdergosits/workspace/SP15/4670/CS4670/PA5/cs4670'
+let g:netrw_dirhist_4='/Users/mdergosits/workspace/gocode/src/hellofs/test'
+let g:netrw_dirhist_5='/Users/mdergosits/workspace/personal/hellofs/src'
+let g:netrw_dirhist_6='/Users/mdergosits/workspace/SP15'
+let g:netrw_dirhist_7='/Users/mdergosits/workspace/SP15/CS4786/comp2/data'
+let g:netrw_dirhist_8='/Users/mdergosits/workspace/SP15/CS4786/comp2/neural_nets'
